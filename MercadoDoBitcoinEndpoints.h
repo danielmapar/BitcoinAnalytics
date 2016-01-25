@@ -1,0 +1,1 @@
+#define TICKER_LITECOIN "https://www.mercadobitcoin.net/api/ticker/ticker_litecoin"
